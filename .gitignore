@@ -2,6 +2,7 @@
 /.idea/
 /dist/
 /src/css/
+/src/libs/
 /.git/
 \\/**/*.psd
 /**/package-lock.json
